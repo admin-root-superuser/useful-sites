@@ -9,4 +9,4 @@ This repository contains a curated list of websites that I find useful for devel
 ## ip & url search 
 - [url scanner](https://urlscan.io/search/[) - url scanner
 - [ipbyinfo](https://www.infobyip.com/search[) - ip lookup 
-
+- [ipbyinfo](https://iplocation.io/[) - ip lookup 
