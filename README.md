@@ -4,7 +4,7 @@ This repository contains a curated list of websites that I find useful for devel
 
 ## file transfer
 - [justbeamit](https://justbeamit.com/) - easy file transfer
-- [send-anywhere](https://send-anywhere.com/[) - easy file transfer
+- [send-anywhere](https://send-anywhere.com/#transfer[) - easy file transfer
 
 ## ip & url search 
 - [url scanner](http://urlscan.io/[) - url scanner
