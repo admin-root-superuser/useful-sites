@@ -7,5 +7,5 @@ This repository contains a curated list of websites that I find useful for devel
 - [send-anywhere](https://send-anywhere.com/#transfer[) - easy file transfer
 
 ## ip & url search 
-- [url scanner](http://urlscan.io/[) - url scanner
+- [url scanner](https://urlscan.io//[) - url scanner
 
