@@ -7,9 +7,5 @@ This repository contains a curated list of websites that I find useful for devel
 - [send-anywhere](https://send-anywhere.com/[) - easy file transfer
 
 ## ip & url search 
-- [url scanner](urlscan.io/[) - url scanner
-- [infobyip](https://www.infobyip.com/[) - ip lookup
-- [ipinfo](ipinfo.io/[) - ip lookup
-- [ip info](https://iplocation.io/[) - ip lookup
-- [ip info](https://dronebl.org/lookup[) - ip lookup
-- [ip info](https://app.ipapi.co/bulk/[) - bulk ip lookup 
+- [url scanner](https://urlscan.io/[) - url scanner
+
