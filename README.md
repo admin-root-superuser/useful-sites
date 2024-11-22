@@ -8,8 +8,8 @@ This repository contains a curated list of websites that I find useful for devel
 
 ## ip & url search 
 - [url scanner](https://urlscan.io/[) - url scanner
-- [ip info](https://www.infobyip.com/[) - ip lookup
-- [ip info](https://ipinfo.io/[) - ip lookup
+- [infobyip](https://www.infobyip.com/[) - ip lookup
+- [ipinfo](https://ipinfo.io/[) - ip lookup
 - [ip info](https://iplocation.io/[) - ip lookup
 - [ip info](https://dronebl.org/lookup[) - ip lookup
 - [ip info](https://app.ipapi.co/bulk/[) - bulk ip lookup 
