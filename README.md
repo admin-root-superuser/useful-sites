@@ -6,7 +6,5 @@ This repository contains a curated list of websites that I find useful for devel
 - [justbeamit](https://justbeamit.com/) - easy file transfer
 - [send-anywhere](https://send-anywhere.com/#transfer[) - easy file transfer
 
-## ip & url search 
+##  url search/scanner 
 - [url scanner](https://urlscan.io/search/[) - url scanner
-- [ipbyinfo](https://www.infobyip.com/search[) - ip lookup 
-- [ipbyinfo](https://iplocation.io/[) - ip lookup 
